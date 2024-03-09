@@ -5,7 +5,7 @@ const HowitWorks = () => {
     <section className="bg-yellow-400  w-screen  p-10 ">
       <div className="text-center space-y-3">
         <h1 className="font-semibold">How it Works</h1>
-        <p>
+        <p className='text-sm'>
           Discover the power of our automobile marketplace platform designed
           revolutionize the <br />
           way independent automobile vendors and buyers connect
@@ -20,7 +20,7 @@ const HowitWorks = () => {
 
           <div>
             <h4 className="text-black font-semibold">List your inventory</h4>
-            <p>
+            <p className='text-sm'>
               {" "}
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
@@ -28,7 +28,7 @@ const HowitWorks = () => {
           </div>
           <div>
             <h4 className="text-black font-semibold">List your inventory</h4>
-            <p>
+            <p className='text-sm'>
               {" "}
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
@@ -36,7 +36,7 @@ const HowitWorks = () => {
           </div>
           <div>
             <h4 className="text-black font-semibold">List your inventory</h4>
-            <p>
+            <p className='text-sm'>
               {" "}
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
@@ -44,7 +44,7 @@ const HowitWorks = () => {
           </div>
           <div>
             <h4 className="text-black font-semibold">List your inventory</h4>
-            <p>
+            <p >
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
             </p>
@@ -64,27 +64,27 @@ const HowitWorks = () => {
           <h2 className="text-black font-semibold">For Vendors</h2>
           <div>
             <h4 className="text-black font-semibold">List your inventory</h4>
-            <p>
+            <p className='text-sm'>
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
             </p>
           </div>
           <div>
             <h4 className="text-black font-semibold">Communicate with vendors</h4>
-            <p>
+            <p className='text-sm'>
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
             </p>
           </div>
           <div>
             <h4 className="text-black font-semibold">Track Performance</h4>
-            <p>
+            <p className='text-sm'>
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
             </p>
           </div> <div>
             <h4 className="text-black font-semibold">Track your orders</h4>
-            <p>
+            <p className='text-sm'>
               Add automobile to your inventory by providing detailed information
               such as brand, model, year, mileage, price and high qualty images
             </p>

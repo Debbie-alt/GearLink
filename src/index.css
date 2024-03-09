@@ -19,6 +19,7 @@
    font-family:'Sora';
 }
 .bg{
-   background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./assets/pricing-bg.jpg);
-   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./assets/pricing-bg.jpg)
+   background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./assets/8959.jpg);
+   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./assets/8959.jpg);
+   background-size: cover;
 }
