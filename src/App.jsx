@@ -1,15 +1,12 @@
-import { useState } from 'react'
-import LandingPage from './LandingPage'
-
+import { useState } from "react";
+import LandingPage from "./LandingPage";
 
 function App() {
-
   return (
     <>
-    <LandingPage/>
-  
+      <LandingPage />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
