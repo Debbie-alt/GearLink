@@ -1,4 +1,4 @@
-const featuresObject = [
+export const featuresObject = [
   {
     id: "01",
     title: "MarketPlace for Vendors",
@@ -36,4 +36,24 @@ const featuresObject = [
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
   },
 ];
-export default featuresObject;
+
+export const PricingType =[
+  {
+    id: "Basic",
+    title: "Starter",
+     Desc:
+      " Description: Ideal for new or small-scale vendors looking to establish their presence in the marketplace",
+  },
+  {
+    id: " Popular",
+    title: "Pro Plan",
+    Desc:
+      " Description: Ideal for new or small-scale vendors looking to establish their presence in the marketplace",
+  },
+  {
+    id: "Most Popular",
+    title: "Premium",
+    Desc:
+      " Description: Ideal for new or small-scale vendors looking to establish their presence in the marketplace",
+  }
+]
