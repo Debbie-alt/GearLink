@@ -1,4 +1,4 @@
-export const featuresObject = [
+const featuresObject = [
   {
     id: "01",
     title: "MarketPlace for Vendors",
@@ -36,6 +36,7 @@ export const featuresObject = [
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
   },
 ];
+export default featuresObject;
 
 export const PricingType =[
   {
