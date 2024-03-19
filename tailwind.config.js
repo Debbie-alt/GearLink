@@ -10,6 +10,7 @@ export default {
         'sora': 'Sora'
       },
       screens:{
+        xs:'480px',
         sm: '520px'
       }
     },

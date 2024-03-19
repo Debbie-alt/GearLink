@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="bg-transparent w-full  text-white">
 
       <div className="flex py-3 text-white justify-between">
-      <p className="text-lg font-bold "> <span className="font-thin">&#9776;</span> &nbsp;GearLink</p>
+      <p className="text-lg font-bold "> <span className="font-thin sm:hidden">&#9776;</span> &nbsp;GearLink</p>
 
     
         <div className="sm:flex space-x-6 hidden  text-xs md:text-sm">
