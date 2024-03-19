@@ -3,10 +3,13 @@ import React from "react";
 const Navbar = () => {
   return (
     <nav className="bg-transparent w-full  text-white">
-      <div className="flex py-3 text-white justify-evenly md:justify-between">
-        <p className="text-lg font-bold ">GearLink</p>
-        <div className="flex space-x-6  text-xs md:text-sm">
-          <a href="" className="hover:opacity-90 hover:text-yellow-300"  >Home</a>
+
+      <div className="flex py-3 text-white justify-between">
+      <p className="text-lg font-bold "> <span className="font-thin">&#9776;</span> &nbsp;GearLink</p>
+
+    
+        <div className="sm:flex space-x-6 hidden  text-xs md:text-sm">
+          <a href="" className="hover:opacity-90 hover:text-yellow-300 "  >Home</a>
           <a href="" className="hover:opacity-90 hover:text-yellow-300"> How it works</a>
           <a href="" className="hover:opacity-90 hover:text-yellow-300"> Vendor </a>
           <a href="" className="hover:opacity-90 hover:text-yellow-300"> Pricing </a>

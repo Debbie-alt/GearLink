@@ -8,6 +8,9 @@ export default {
       fontFamily:{
         'roboto': 'Roboto',
         'sora': 'Sora'
+      },
+      screens:{
+        sm: '520px'
       }
     },
   },
