@@ -5,7 +5,7 @@ const HowitWorks = () => {
     <section className="bg-yellow-400  w-screen  p-10 ">
       <div className="text-center space-y-3">
         <h1 className="font-bold font-sora">How it Works</h1>
-        <p className=" font-roboto  text-sm md:text-md">
+        <p className=" font-roboto  text-sm md:text-lg text-center ">
           Discover the power of our automobile marketplace platform designed
           revolutionize the 
           way independent automobile vendors and buyers connect
@@ -14,7 +14,7 @@ const HowitWorks = () => {
           Learn More
         </button>
       </div>
-      <section className="grid grid-cols-1 md-grid-cols-2 lg:grid-cols-3 justify-between mt-3">
+      <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-between mt-3">
         <figure className="  space-y-5 space-x-5">
           <h2 className="text-black font-semibold ">For Vendors</h2>
 

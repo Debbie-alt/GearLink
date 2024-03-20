@@ -12,6 +12,9 @@ export default {
       screens:{
         xs:'480px',
         sm: '520px'
+      },
+      colors:{
+        'red':'rgba(255, 255, 255, 0.5)'
       }
     },
   },
