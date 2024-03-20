@@ -13,7 +13,7 @@ const Features = () => {
     <section className="w-screen h-auto p-20 space-y-14 flex flex-col ">
       <div className="flex flex-col text-center space-y-4" >
         <h1 className="font-bold  text-xl heading" data-aos="fade-right" data-aos-delay="200">Features</h1>
-        <p className="font-roboto text-center text-sm sm:text-lg" data-aos="fade-right" data-aos-delay="500" >
+        <p className="font-roboto text-center text-[14px] sm:text-lg" data-aos="fade-right" data-aos-delay="500" >
           Discover the power of our automobile marketplace platform designed to
           revolutionize the way independent
            automobile vendors and buyers connect. Explore a comprehensive

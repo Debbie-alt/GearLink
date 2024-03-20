@@ -14,7 +14,7 @@ const Pricing = () => {
         </p>
       </div>
 
-      <section className="flex flex-col md:flex-row space-x-5 text-white border-2 border-slate-400  p-6 rounded-md">
+      <section className="flex flex-col md:flex-row space-x-5 text-white border-2  border-slate-400 p-10 md:p-6 rounded-md">
         {PricingType.map((pricings) => (
           <figure className="flex flex-col space-y-2">
             <h1>{pricings.id}</h1>
