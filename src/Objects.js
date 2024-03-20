@@ -3,37 +3,37 @@ const featuresObject = [
     id: "01",
     title: "MarketPlace for Vendors",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
+      "Join Our exclusive marketplace tailored for independent automoile vendors to showcase your inventory and connect with potential buyers effortlessly",
   },
   {
     id: "02",
-    title: "MarketPlace for Vendors",
+    title: "Personalized vendor storefront",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
+      "Create your own personal storefront to stand out in the crowd showcasing your unique inventory and establishing your business identity.",
   },
   {
     id: "03",
-    title: "MarketPlace for Vendors",
+    title: "Secure Vendor Authentication",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
+      "Be rest assured with our robust authentication system, ensuring any verified vendors have access to the platform, embracing trust and reliablity",
   },
   {
     id: "04",
-    title: "MarketPlace for Vendors",
+    title: "Seamless Payment Integration",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
+      "Streamline your financial transactions with our integrated payment solutions, providing a secure and hassle-free experience for vendors and buyers",
   },
   {
     id: "05",
-    title: "MarketPlace for Vendors",
+    title: "Detailed vendor profiles with Rating",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
+      "Build crediblity and trust with detailed vendors profiles featuring service ratings and testimonials, allowing buyers to make informed decisions. ",
   },
   {
     id: "06",
-    title: "MarketPlace for Vendors",
+    title: "Comprehensive buyer experience",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem aliquam voluptatem impedit quaerat expedita consequuntur illo vel ipsam aliquid adipisci.",
+      "Deliver an exceptional buying experience to customers with our user friendly platform, offering a wide selection of automobiles and seamless communication with vendors. ",
   },
 ];
 export default featuresObject;
