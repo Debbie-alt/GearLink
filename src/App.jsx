@@ -15,7 +15,7 @@ function App() {
       setBackdropBlur(false); // Disable backdrop blur when alert is hidden
       setShowAlert(false);
 
-    }, 8000);
+    }, 6000);
 
     return () => clearTimeout(timeout);
   }, []);
