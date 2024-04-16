@@ -25,7 +25,7 @@ const Features = () => {
         </button>
       </div>
       
-        <figure className="grid  grid-cols md:grid-cols-2 lg:grid-cols-3 space-y-8 space-x-4 w-full items-center  ">
+        <figure className="grid  grid-cols md:grid-cols-2 lg:grid-cols-3 space-y-8 space-x-4   w-[70vw]         md:w-full items-center  ">
         {featuresObject.map((grids) => (
           <div className="card  shadow-xl  space-y-2  rounded-md  border-2 mt-8 px-3 py-5 " data-aos="fade-left" data-aos-delay="200">
             <h1 className="font-bold heading">{grids.id}</h1>
