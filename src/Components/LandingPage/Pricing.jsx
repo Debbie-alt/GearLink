@@ -5,7 +5,7 @@ import { PricingType } from "../../Objects";
 
 const Pricing = () => {
   return (
-    <section className=" bg  py-5 px-16 flex flex-col space-y-10  w-full">
+    <section className=" bg  py-5  flex flex-col space-y-10  w-full">
       <div className="text-center text-white ">
         <h1 className=" font-bold text-lg ">Pricing</h1>
         <p className="font-semibold ">
@@ -14,7 +14,7 @@ const Pricing = () => {
         </p>
       </div>
 
-      <section className="flex flex-col md:flex-row space-x-5 text-white border-2  border-slate-400 p-10 md:p-6 rounded-md">
+      <section className=" w-[90vw] mx-auto flex flex-col md:flex-row space-x-5 text-white border-2  border-slate-400 p-10 md:p-6 rounded-md">
         {PricingType.map((pricings) => (
           <figure className="flex flex-col space-y-2">
             <h1>{pricings.id}</h1>
