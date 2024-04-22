@@ -16,7 +16,7 @@ const Navbar = () => {
           <p className="text-lg font-bold"> GearLink</p>
 
 
-          <div className={`md:flex md:flex-row dropdown w-[70vw] md:w-[40vw] items-center flex-col rounded-lg md:text-white  py-5 px-5 md:p-0 mt-7 md:mt-2 bg-black border-2 md:border-0 absolute md:relative md:bg-transparent justify-between md:space-y-0 h-[80vh] md:h-0  md:space-x-6 ${navbar}  text-xs md:text-sm `}>
+          <div className={`md:flex md:flex-row dropdown  items-center flex-col rounded-lg md:text-white  py-5 px-12 md:p-0 mt-7 md:mt-2 bg-black border-2 md:border-0 absolute md:relative md:bg-transparent justify-between md:space-y-0 h-[80vh] md:h-0  md:space-x-6 ${navbar}  text-xs md:text-sm `}>
           
         
           <a href="" className="hover:opacity-90 hover:text-yellow-300 "  >Home</a>
