@@ -8,11 +8,11 @@ function App() {
   const [backdropBlur, setBackdropBlur] = useState(false);
 
   useEffect(() => {
-    setBackdropBlur(true); // Enable backdrop blur when alert is shown
+    setBackdropBlur(true); 
     setShowAlert(true);
 
     const timeout = setTimeout(() => {
-      setBackdropBlur(false); // Disable backdrop blur when alert is hidden
+      setBackdropBlur(false); 
       setShowAlert(false);
 
     }, 6000);
