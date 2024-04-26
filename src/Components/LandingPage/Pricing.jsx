@@ -9,8 +9,6 @@ import { useRef } from "react";
 const Pricing = () => {
   const el = useRef(null);
 
-
-
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: ['Flexible Pricing plans to suit your business needs', 'Choose the Plan that works best for you'],
@@ -24,7 +22,7 @@ const Pricing = () => {
   }, []);
 
   return (
-    <section className=" bg  py-5  mt-20 flex flex-col space-y-10  w-full">
+    <section className=" bg  py-5   flex flex-col space-y-10  w-full" id="pricing">
       <div className="text-center text-white ">
         <h1 className=" font-bold text-lg ">Pricing</h1>
         <p className="font-semibold " ref={el}>
